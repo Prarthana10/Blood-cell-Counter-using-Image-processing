@@ -6,3 +6,7 @@ techniques such as: rgb to grayscale conversion, adjusting the contrast, binariz
 segmentation and other morphological operations such as opening, connected
 components,region props etc. Thus we will be able to separate WBCs and RBCs and count
 them.
+## Contributors
+Prarthana Bhat ( <prarthana.bhat20@gmail.com> )
+
+B.N. Vismaya ( <vismayanavile@gmail.com> )
